@@ -5,7 +5,7 @@ function Headers() {
   return (
     <div className="header">
         <h1 >
-            The Royal Bank of Flatiron
+            The Bank of Flatiron
             </h1>
         </div>
   )
