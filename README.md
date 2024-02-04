@@ -3,9 +3,10 @@ Description: This app allows you to add, filter, and view transactions. Transact
 
 Features:
 
-Add new transactions
-Filter transactions by description
-View all transactions
+Add new transactions</br>
+Filter transactions by description</br>
+View all transactions</br>
+
 Usage:
 
 To add a new transaction, simply fill out the form and click the "Add Transaction" button. The new transaction will be added to the table and posted to the backend API.
@@ -24,4 +25,4 @@ The db.json provides the following endpoints:
 
 Contributing:
 
-We welcome contributions to this app. If you have a bug fix or feature improvement, please feel free to submit a pull request.
+Any contributions to this app are welcome. If you have a bug fix or feature improvement, please feel free to submit a pull request.
