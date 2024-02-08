@@ -1,9 +1,9 @@
-## Bank Transactions App
+## Bank of Flatiron
 
 This is a simple React application that allows users to manage their bank transactions.
 
 ## Project Author
-This project are fully built by **Brian Kipkirui** 
+This project is fully built by **Brian Kipkirui** 
 
 ## Features
 View a list of all transactions.
