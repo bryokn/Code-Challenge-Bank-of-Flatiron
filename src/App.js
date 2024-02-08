@@ -3,6 +3,7 @@ import TransactionList from './TransactionList';
 import NewTransactions from './NewTransactions';
 import './App.css';
 
+
 function App() {
   const [allTransactions, setAllTransactions] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
